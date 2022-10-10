@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">adaptadores</string>
+    <string name="tv_nombre">nombre</string>
+    <string name="tv_ultimo_Mensaje">Ultimo mensaje</string>
+    <string name="tv_hora">12:25pm</string>
+    <string name="nombre">nombre</string>
+    <string name="nombrePersona">Carlos</string>
+    <string name="mensaje">Ultimo mensaje recibido</string>
+    <string name="ultimoMensaje">Gracias por unirte</string>
+    <string name="telefono">telefono</string>
+    <string name="numeroTelefono">3205696671</string>
+    <string name="pais">pais</string>
+    <string name="nombrePais">Colombia</string>
+    <string name="titulo">titulo</string>
+    <string name="textoTitulo">Mensaje de Bienvenida</string>
+</resources>
